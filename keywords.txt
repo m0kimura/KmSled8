@@ -1,0 +1,5 @@
+KmSled8   KEYWORD1
+
+begin     KEYWORD2
+rgb       KEYWORD2
+bright    KEYWORD2
